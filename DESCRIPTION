@@ -1,7 +1,7 @@
 Package: dsTidyverseClient
 Type: Package
 Title: 'DataSHIELD' 'Tidyverse' Clientside Package
-Version: 1.0.0
+Version: 1.0.2
 Authors@R: 
     c(
       person(given = "Tim",
@@ -33,10 +33,10 @@ Config/testthat/edition: 3
 Additional_repositories: https://cran.obiba.org/
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-10-28 08:28:00 UTC; tcadman
+Packaged: 2025-02-27 09:19:59 UTC; tcadman
 Author: Tim Cadman [aut, cre] (<https://orcid.org/0000-0002-7682-5645>),
   Mariska Slofstra [aut] (<https://orcid.org/0000-0002-0400-0468>),
   Stuart Wheater [aut],
   Demetris Avraam [aut]
 Repository: CRAN
-Date/Publication: 2024-10-31 13:20:28 UTC
+Date/Publication: 2025-02-27 09:30:06 UTC
